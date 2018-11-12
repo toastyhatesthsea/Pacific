@@ -1,3 +1,10 @@
+/*
+	Author: Marilee Zafaripour
+	Filename: pacific.css
+
+*/
+
+
 * { box-sizing: border-box; }
 header, nav, main, footer { display: block; }
 body { background-color: #FFFFFF;
@@ -82,7 +89,7 @@ main { padding: 1px 20px;
 		display: none;
 	}
 
-@media only screen and (max-width: 1024)
+@media only screen and (max-width: 1024px)
 {
 	body
 	{
