@@ -94,4 +94,46 @@ main { padding: 1px 20px;
 		margin: 0px;
 		box-shadow: none;
 	}
+
+	h1
+	{
+		margin: 0px;
+	}
+
+	nav li
+	{
+		display: inline-block;
+	}
+
+	nav a
+	{
+		padding: 1em;
+	}
+
+	main
+	{
+		padding: 1em;
+		margin-left: 0px;
+		font-size: 90%;
+	}
+
+	footer
+	{
+		margin: 0px;
+	}
+
+	#homehero
+	{
+		margin-left: 0px;
+	}
+
+	#yurthero
+	{
+		margin-left: 0px;
+	}
+
+	#trailhero
+	{
+		margin-left: 0px;
+	}
 }
